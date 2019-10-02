@@ -25,7 +25,7 @@ After the summer I had some discussions with my boss Toni Luhti (CEO) about maki
 
 ## The moment of truth
 
-Then I attended a one day seminar about platform economy in Helsinki and I bumped into my previous PhD sponsor Tommi Mikkonen. Suddenly a few days after I noticed that I'm sitting in a meeting room with the mentioned professor and we have agreed to write a position about web APIs and design-first approach to a conference in South Korea. What the hell just happened? That was the moment when I finally realised that I'm already on the second hunt for the red october, my second PhD. 
+Then I attended a one day seminar about platform economy in Helsinki and I bumped into my previous PhD sponsor Tommi Mikkonen. Suddenly a few days after I noticed that I'm sitting in a meeting room with the mentioned professor and we have agreed to write a position about web APIs and design-first approach to [42nd International Conference on Software Engineering](https://conf.researchr.org/home/icse-2020) in South Korea. What the hell just happened? That was the moment when I finally realised that I'm already on the second hunt for the red october, my second PhD. 
 
 ## Video-driven communication
 
