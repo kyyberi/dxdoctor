@@ -19,7 +19,7 @@ This is it. I've made my decision to go for the hunt of the red october, again. 
 
 ## Something was missing
 
-I should have seen this coming already in July this year. One day then I felt the urge to start something bigger around developer experience. I've been working with the topic for some years now and I felt like something was missing. So I started [#100DaysDX](https://100daysdx.com) series. It involved one DX related post every day. That series is still on-going (now post #78). Around post #60 I started to have an itch again. I felt like yes this is the sort of right thing to do, but still I'm missing something. 
+I should have seen this coming already in July this year. One day then I felt the urge to start something bigger around developer experience. I've been working with the topic for some years now and I felt like something was missing. So I started [#100DaysDX](https://100daysdx.com) series. It involved one DX related post every day. That series is still on-going (now post #78). Around post #60 I started to have an itch again. I felt like yes this is sort of the right thing to do, but still I'm missing something. 
 
 After the summer I had some discussions with my boss Toni Luhti (CEO) about making another PhD. He's about to have the dissertation for the 1st one any day now. We had agreed that we would actually go for the 2nd round but details we're lacking and real action too. 
 
@@ -30,3 +30,5 @@ Then I attended a one day seminar about platform economy in Helsinki and I bumpe
 ## Video-driven communication
 
 Plan is to write in this site about the findings and other related, but also focus more on doing video clips about the findings. Thus the Netflix alike UX/UI. It sort of felt like a perfect fit. This might even be considered as a different approach to academic communication which has relied on academic articles only for centuries. Of course I write the dull papers too, but in addition to that I intend to explain the papers and research in videos. Ultimate goal is to have the dissertation online for all the world to see and participate. 
+
+But I haven't still found a way to tell my wife that the same process is going to happen again...
