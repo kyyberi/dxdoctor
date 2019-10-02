@@ -29,4 +29,4 @@ Then I attended a one day seminar about platform economy in Helsinki and I bumpe
 
 ## Video-driven communication
 
-Plan is to write in this site about the findings and other related, but also focus more on doing video clips about the findings. Thus the Netflix alike UX/UI. It sort of feelt like a perfect fit. This might even be considered as a different approach to academic communication which has relied on academic articles only for centuries. Of course I write the dull papers too, but in addition to that I intend to explain the papers and research in videos. 
+Plan is to write in this site about the findings and other related, but also focus more on doing video clips about the findings. Thus the Netflix alike UX/UI. It sort of felt like a perfect fit. This might even be considered as a different approach to academic communication which has relied on academic articles only for centuries. Of course I write the dull papers too, but in addition to that I intend to explain the papers and research in videos. Ultimate goal is to have the dissertation online for all the world to see and participate. 
