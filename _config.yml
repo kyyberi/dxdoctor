@@ -1,26 +1,25 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+name: DXDOCTOR
+title: Doctor of Developer eXperience 
+description: Doctor of Developer eXeprience is about economics of developer experience
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
-email: youremail@xyz.com
+  - dx
+  - economics
+  - academic
+email: jarkko@vimo.fi
 disqus_username: disqus_username
 show_hero: true
 
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: kyyberi
+# facebook_username: facebook_username
+twitter_username: jarkko_moilanen
+# instagram_username: instagram_username
+linkedin_username: jarkkomoilanen
+# medium_username: medium_username
 
 
 # Theme Settings
