@@ -1,7 +1,7 @@
 ---
 date: 2019-10-01 23:48:05
 layout: post
-title: Welcome to the Developer eXperience Doctor
+title: Economics of the Developer eXperience
 subtitle: My path to 2nd PhD
 description: >-
   This blog is our journey to academic Developer eXperience
