@@ -1,8 +1,8 @@
 ---
 date: 2019-09-10 23:48:05
 layout: post
-title: Test with title
-subtitle: Why DX matters in product development and sales
+title: Extending Platform of Trust API Documentation and support with Stack overflow
+subtitle: Community support to API documentation
 description: >-
   This blog is our journey to academic Developer eXperience
 image: /assets/img/docs.png
