@@ -6,7 +6,7 @@ subtitle: Why DX matters in product development and sales
 description: >-
   This blog is our journey to academic Developer eXperience
 image: /assets/img/ipad.jpg
-optimized_image: /assets/img/pad.jpg
+optimized_image: /assets/img/ipad.jpg
 category: blog
 tags:
   - welcome
