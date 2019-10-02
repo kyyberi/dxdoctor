@@ -5,10 +5,8 @@ title: Economics of the Developer eXperience
 subtitle: My path to 2nd PhD
 description: >-
   This blog is our journey to academic Developer eXperience
-image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
-optimized_image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
+image: /assets/img/header.jpg
+optimized_image: /assets/img/header.jpg
 category: blog
 tags:
   - welcome
