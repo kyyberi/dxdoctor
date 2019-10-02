@@ -7,7 +7,7 @@ description: >-
   This blog is our journey to academic Developer eXperience
 image: /assets/img/header.jpg
 optimized_image: /assets/img/header.jpg
-category: blog
+category: video
 tags:
   - welcome
   - blog
