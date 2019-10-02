@@ -1,5 +1,5 @@
 ---
-date: 2019-10-01 23:48:05
+date: 2019-01-10 23:48:05
 layout: post
 title: Economics of the Developer eXperience
 subtitle: My path to 2nd PhD
