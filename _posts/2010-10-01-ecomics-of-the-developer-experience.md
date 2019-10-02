@@ -31,4 +31,7 @@ Then I attended a one day seminar about platform economy in Helsinki and I bumpe
 
 Plan is to write in this site about the findings and other related, but also focus more on doing video clips about the findings. Thus the Netflix alike UX/UI. It sort of felt like a perfect fit. This might even be considered as a different approach to academic communication which has relied on academic articles only for centuries. Of course I write the dull papers too, but in addition to that I intend to explain the papers and research in videos. Ultimate goal is to have the dissertation online for all the world to see and participate. 
 
+## Why DXDoctor? 
+The domain name comes from half-joke idea of a degree title "Doctor of Developer eXeprience". That's what I would like to be, but I guess I have to aim officially for Doctor of Economics since the thesis will be economics oriented. 
+
 But I haven't still found a way to tell my wife that the same process is going to happen again...
