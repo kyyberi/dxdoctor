@@ -17,6 +17,9 @@ menu: true
       {% if author.position %}
         <h3 class="position">{{ author.position }}</h3>
       {% endif %}
+      {% if author.bio %}
+        <p>{{ author.bio }}</p>
+      {% endif %}
     </div>
   {% endfor %}
 </div>
