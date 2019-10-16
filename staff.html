@@ -15,6 +15,9 @@ menu: true
         <a href="{{ site.baseurl }}{{ author.url }}">{{ author.display_name }}</a>
       </h2>
       {% if author.position %}
+        <img src="{{ author.photo }}"/>
+      {% endif %}
+      {% if author.position %}
         <h3 class="position">{{ author.position }}</h3>
       {% endif %}
       {% if author.bio %}
