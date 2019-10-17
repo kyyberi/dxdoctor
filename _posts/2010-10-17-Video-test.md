@@ -5,8 +5,8 @@ title: Video test
 subtitle: Testing how Camtasia would work
 description: >-
   Testing how my video production plan would work
-image: /assets/img/videotest.png
-optimized_image: /assets/img/videotest.png
+image: /assets/img/videotest.jpg
+optimized_image: /assets/img/videotest.jpg
 category: Video
 tags:
   - test
