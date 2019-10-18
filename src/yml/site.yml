@@ -1,12 +1,13 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+name: DX Doctor - Economics of The Developer eXperience
+title: Doctor of Developer eXperience 
+description: Doctor of Developer eXeprience is about economics of developer experience
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
-email: youremail@xyz.com
-disqus_username: disqus_username
+  - DX
+  - API
+  - Platform
+  - economics
+  - academic
+email: jarkko@vimo.fi
+disqus_username: jarkkomoilanen
 show_hero: true
