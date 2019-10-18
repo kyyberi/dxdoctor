@@ -28,7 +28,11 @@ layout: main
                 <div class="buttons">
                     <a href="{{ featured.url }}" role="button" class="button">
                         <img src="/assets/img/icons/read.svg">
-                        <span>Read Now</span>
+                        {% if post.category == video %}
+                            <span>Watch Now</span>
+                        {% elsif post.image %}
+                            <span>Read Now</span>
+                        {% endif %}
                     </a>
                 </div>
             </div>
