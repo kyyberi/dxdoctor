@@ -15,6 +15,7 @@ author: jarkko_moilanen
 paginate: true
 ---
 
+
 This is it. I've made my decision to go for the hunt of the red october, again. I did my first PhD about 3D Printing Ecosystem and had my dissertation July 2017. A few years have passed and I'm ready to go for another round. This time the topic is Developer eXperience and approach is economics. 
 
 ## Something was missing

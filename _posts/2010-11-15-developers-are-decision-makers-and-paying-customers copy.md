@@ -1,5 +1,5 @@
 ---
-date: 2019-11-15 23:48:05
+date: 2019-11-15 18:48:05
 layout: post
 title: Developers are decision makers and paying customers
 subtitle: Details of the B2D markets
