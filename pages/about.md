@@ -1,10 +1,13 @@
 ---
 layout: page
 title: About
-description: Some description.
+description: Doctor of Developer eXperience background and purpose
 permalink: /about/
 menu: true
 ---
+
+<img src="/assets/img/dxdoctor-logo.png" alt="DX Doctor Logo" width="584">
+
 
 <img class="img-rounded" src="/assets/img/uploads/jarkko-full.png" alt="Jarkko APItalist Moilanen" width="400">
 
