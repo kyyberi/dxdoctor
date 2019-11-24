@@ -6,7 +6,7 @@ permalink: /about/
 menu: true
 ---
 
-<img src="/assets/img/dxdoctor-logo.png" alt="DX Doctor Logo" width="584">
+<img src="/assets/img/dxdoctor-logo.png" alt="DX Doctor Logo" width="1238">
 
 
 <img class="img-rounded" src="/assets/img/uploads/jarkko-full.png" alt="Jarkko APItalist Moilanen" width="400">
@@ -32,4 +32,4 @@ The domain name comes from half-joke idea of a degree title **"Doctor of Develop
 
 My current biggest problem is that I haven't still found a way to tell my wife that the same PhD process is going to happen again...
 
-<img src="/assets/img/dxdoctor-logo.png" alt="DX Doctor Logo" width="584">
+<img src="/assets/img/dxdoctor-logo.png" alt="DX Doctor Logo" width="1238">
