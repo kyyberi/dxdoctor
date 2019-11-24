@@ -31,3 +31,5 @@ Plan is to write in this site about the findings and other related, but also foc
 The domain name comes from half-joke idea of a degree title **"Doctor of Developer eXperience"**. That's what I would like to be, but I guess I have to aim officially for Doctor of Economics since the thesis will be economics oriented. 
 
 My current biggest problem is that I haven't still found a way to tell my wife that the same PhD process is going to happen again...
+
+<img src="/assets/img/dxdoctor-logo.png" alt="DX Doctor Logo" width="584">
