@@ -6,7 +6,7 @@ subtitle: Things under the surface
 description: >-
   Episode discusses developer experience in the more profound level beyond the traditional end result driven rhetorics
 image: /assets/img/002.jpg
-optimized_image: /assets/img/002.jpg
+optimized_image: /assets/img/002-1.jpg
 category: Video
 tags:
   - Video

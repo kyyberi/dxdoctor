@@ -8,6 +8,7 @@ menu: true
 
 <img src="/assets/img/dxdoctor-logo.png" alt="DX Doctor Logo" width="1238">
 
+<h1 style="text-align: center;">Jarkko Moilanen</h1>
 
 <img class="img-rounded" src="/assets/img/uploads/jarkko-full.png" alt="Jarkko APItalist Moilanen" width="400">
 
