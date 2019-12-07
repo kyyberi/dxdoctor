@@ -7,7 +7,7 @@ description: >-
   The episode is about designing API experience as a package, not just designing an API. Model is drawn from experience gained in developing agile and lean API development model for [Platform of Trust](https://platformoftrust.net)
 image: /assets/img/004.jpg
 optimized_image: /assets/img/004-1.jpg
-category: Video
+category: video
 tags:
   - Video
   - Lean

@@ -7,7 +7,7 @@ description: >-
   Episode discusses developers as customers, the amount of them in global level, their purchase capability and suggestion of B2D Product Strategy
 image: /assets/img/001.jpg
 optimized_image: /assets/img/001-1.jpg
-category: Video
+category: video
 tags:
   - Video
   - B2D

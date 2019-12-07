@@ -7,7 +7,7 @@ description: >-
   The episode draws a picture of developers as consumers (the most common approach), as learners (continuos learners) and as decision makers (more than ever)
 image: /assets/img/003.jpg
 optimized_image: /assets/img/003-1.jpg
-category: Video
+category: video
 tags:
   - Video
   - Learner
