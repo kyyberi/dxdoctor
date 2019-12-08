@@ -15,7 +15,7 @@ Besides just writing and talking about API Economy, platform economy and Develop
 
 ## 1. Team Training packages
 
-* Packages contain both online learning material and team couching. Team should use the online course material as introduction before the online couching sessions. 
+* **All packages contain both online learning material and team couching.** Team should use the online course material as introduction before the online couching sessions. 
 * Online course video material and package purchases from https://dxdoctor.teachable.com/ 
 * After the purchase you will be given opportunity to select dates for team couching session(s) online. 
 * NDA possible if needed
