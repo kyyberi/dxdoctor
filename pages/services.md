@@ -36,7 +36,7 @@ Besides just writing and talking about API Economy, platform economy and Develop
 | 5 Online video lectures (see below) | 5 Online video lectures (see below) | 5 Online video lectures (see below) |
 | 1 online couching session (1 hour / session) | 2 online couching sessions (1 hour / session) | 3 online couching sessions (1 hour / session) |
 | max 2 participants | max 4 participants | max 6 participants |
-| 500,00€ | 750,00€ | 1 500,00€ |
+| 500,00€ | 1000,00€ | 2 000,00€ |
 | <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Buy now!</a></center> | <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Buy now!</a></center> | <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Buy now!</a></center> |
 
 
@@ -65,7 +65,7 @@ Teams entering this package will learn how to build top of the world developer e
 | 5 Online video lectures (see below) | 5 Online video lectures (see below) | 5 Online video lectures (see below) |
 | 1 online couching session (1 hour / session) | 2 online couching sessions (1 hour / session) | 3 online couching sessions (1 hour / session) |
 | max 2 participants | max 4 participants | max 6 participants |
-| 500,00€ | 750,00€ | 1 500,00€ |
+| 500,00€ | 1000,00€ | 2 000,00€ |
 | <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Buy now!</a></center> | <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Buy now!</a></center> | <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Buy now!</a></center> |
 
 **Online course topics:**
