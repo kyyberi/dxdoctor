@@ -20,28 +20,33 @@ Besides just writing and talking about API Economy, platform economy and Develop
 * After the purchase you will be given opportunity to select dates for team couching session(s) online. 
 * NDA possible if needed
 
-### 1.1. How to do API Monetisation?
+<div style="background-color:#ddd;padding:10px;">
+<div>
+<h3 style="padding:10px;">How to do API Monetisation?</h3>
+</div>
 
-**Small package for teams - 500€**
+<p><b>Small package for teams - 500€</b></p>
+<ul>
+<li>5 Online video lectures (see above) </li>
+<li>1 online couching sessions (1 hour session)</li>
+<li>max 2 participants </li>
+</ul>
 
-* 5 Online video lectures (see above) 
-* 1 online couching sessions (1 hour session)
-* max 2 participants 
+<p><b>Medium packaga for teams - 750€</b></p>
 
+<ul>
+<li>5 Online video lectures (see above)</li>
+<li>2 online couching session (2 x 1 hour session)</li>
+<li>max 4 participants</li>
+</ul>
 
-**Medium packaga for teams - 750€**
-
-* 5 Online video lectures (see above)
-* 2 online couching session (2 x 1 hour session)
-* max 4 participants
-
-
-**Large package for teams - 1500€**
-
-* 5 Online video lectures (see above)
-* 3 online couching sessions (3 x 1 hour session)
-* max 6 participants
-
+<p><b>Large package for teams - 1500€</b></p>
+<ul>
+<li>5 Online video lectures (see above)</li>
+<li>3 online couching sessions (3 x 1 hour session)</li>
+<li>max 6 participants</li>
+</ul>
+</div>
 
 
 ### 1.2. How to offer top Developer eXperience?
