@@ -33,12 +33,20 @@ Besides just writing and talking about API Economy, platform economy and Develop
 
 | Small package | Medium package | Large package |
 |-------|--------|---------|
-| 5 Online video lectures (see above) | 5 Online video lectures (see above) | 5 Online video lectures (see above) |
+| 5 Online video lectures (see below) | 5 Online video lectures (see below) | 5 Online video lectures (see below) |
 | 1 online couching session (1 hour / session) | 2 online couching sessions (1 hour / session) | 3 online couching sessions (1 hour / session) |
 | max 2 participants | max 4 participants | max 6 participants |
 | 500,00€ | 750,00€ | 1 500,00€ |
+| Buy | Buy | Buy |
 
 
+**Online course topics:**
+
+* Topic 1
+* Topic 1
+* Topic 1
+* Topic 1
+* Topic 1
 
 <div style="background-color:#fff;padding:10px;">&nbsp;</div>
 
@@ -49,31 +57,22 @@ Besides just writing and talking about API Economy, platform economy and Develop
 </div>
 </div>
 
+
 | Small package | Medium package | Large package |
 |-------|--------|---------|
-| 5 Online video lectures (see above) | 5 Online video lectures (see above) | 5 Online video lectures (see above) |
+| 5 Online video lectures (see below) | 5 Online video lectures (see below) | 5 Online video lectures (see below) |
 | 1 online couching session (1 hour / session) | 2 online couching sessions (1 hour / session) | 3 online couching sessions (1 hour / session) |
 | max 2 participants | max 4 participants | max 6 participants |
 | 500,00€ | 750,00€ | 1 500,00€ |
+| Buy | Buy | Buy |
 
+**Online course topics:**
 
-
-## Online Presentations
-
-**Pricing and content:** 
-
-* 500€ / 1 hour presentation 
-* Audience size: unlimited
-
-## Keynote presentation
-
-**Pricing and content:** 
-
-* 3000€
-* max 1 hour presentation 
-* Traveling expenses and accommodation by the organizer
-* Audience size: unlimited
-
+* Topic 1
+* Topic 1
+* Topic 1
+* Topic 1
+* Topic 1
 
 
 ## Something else? 
