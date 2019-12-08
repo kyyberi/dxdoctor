@@ -48,7 +48,7 @@ Besides just writing and talking about API Economy, platform economy and Develop
 </ul>
 </div>
 
-
+<div style="background-color:#fff;padding:10px;">&nbsp;</div>
 
 
 <div style="background-color:#ddd;padding:10px;">
