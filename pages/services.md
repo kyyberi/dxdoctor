@@ -79,27 +79,8 @@ Besides just writing and talking about API Economy, platform economy and Develop
 </ul>
 </div>
 
-**Small package for teams - 500€**
 
-* 5 Online video lectures (see above) 
-* 1 online couching sessions (1 hour session)
-* max 2 participants 
-
-
-**Medium packaga for teams - 750€**
-
-* 5 Online video lectures (see above)
-* 2 online couching session (2 x 1 hour session)
-* max 4 participants
-
-
-**Large package for teams - 1500€**
-
-* 5 Online video lectures (see above)
-* 3 online couching sessions (3 x 1 hour session)
-* max 6 participants
-
-## Online presentations
+## Presentations
 
 **Pricing and content:** 
 
