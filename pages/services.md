@@ -32,13 +32,13 @@ Besides just writing and talking about API Economy, platform economy and Develop
 </div>
 </div>
 
-| Small package | Medium package | Large package |
+| Small package | Medium package | Large package | Custom |
 |-------|--------|---------|
-| 5 Online video lectures (see below) | 5 Online video lectures (see below) | 5 Online video lectures (see below) |
-| 1 online couching session (1 hour / session) | 2 online couching sessions (1 hour / session) | 3 online couching sessions (1 hour / session) |
-| max 2 participants | max 4 participants | max 6 participants |
-| 500,00€ | 1000,00€ | 2 000,00€ |
-| <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Buy now!</a></center> | <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Buy now!</a></center> | <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Buy now!</a></center> |
+| 5 Online video lectures (see below) | 5 Online video lectures (see below) | 5 Online video lectures (see below) | 5 Online video lectures (see below)  |
+| 1 online couching session (1 hour / session) | 2 online couching sessions (1 hour / session) | 3 online couching sessions (1 hour / session) | As needed and agreed |
+| max 2 participants | max 4 participants | max 6 participants | unlimited participants |
+| 500,00 € | 1000,00 € | 2 000,00 € | Request offer |
+| <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Buy now!</a></center> | <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Buy now!</a></center> | <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Buy now!</a></center> | <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Contact!</a></center> |
 
 
 **Online course topics:**
@@ -60,14 +60,14 @@ Besides just writing and talking about API Economy, platform economy and Develop
 
 Teams entering this package will learn how to build top of the world developer experience. The online material is intended to be watched before the online couching sessions. In the online material participants will learn...
 
-
-| Small package | Medium package | Large package |
+| Small package | Medium package | Large package | Custom |
 |-------|--------|---------|
-| 5 Online video lectures (see below) | 5 Online video lectures (see below) | 5 Online video lectures (see below) |
-| 1 online couching session (1 hour / session) | 2 online couching sessions (1 hour / session) | 3 online couching sessions (1 hour / session) |
-| max 2 participants | max 4 participants | max 6 participants |
-| 500,00€ | 1000,00€ | 2 000,00€ |
-| <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Buy now!</a></center> | <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Buy now!</a></center> | <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Buy now!</a></center> |
+| 5 Online video lectures (see below) | 5 Online video lectures (see below) | 5 Online video lectures (see below) | 5 Online video lectures (see below)  |
+| 1 online couching session (1 hour / session) | 2 online couching sessions (1 hour / session) | 3 online couching sessions (1 hour / session) | As needed and agreed |
+| max 2 participants | max 4 participants | max 6 participants | unlimited participants |
+| 500,00 € | 1000,00 € | 2 000,00 € | Request offer |
+| <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Buy now!</a></center> | <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Buy now!</a></center> | <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Buy now!</a></center> | <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Contact!</a></center> |
+
 
 **Online course topics:**
 
