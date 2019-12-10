@@ -21,7 +21,10 @@ Besides just writing and talking about API Economy, platform economy and Develop
 
 
 * **All packages contain both online learning material and team couching.** 
-* Team should use the **online course material as introduction before the online couching sessions.** [See Example of one lecture](https://dxdoctor.net/consumer-focused-lean-API-development/). 
+* Team should use the **online course material as introduction before the online couching sessions.** Example below. The final material will have a bit higher quality. 
+
+<iframe width="560" height="415" src="https://www.youtube.com/embed/yUHgEBPs_tc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 * Online course video material and package purchases from [https://dxdoctor.teachable.com/](https://dxdoctor.teachable.com/) 
 * After the purchase you will be given opportunity to select dates for team couching session(s) online. 
 * NDA possible if needed
