@@ -42,7 +42,9 @@ The team couching is fully online and thus globally available. Teams entering th
 * Project managers
 
 
-The online material is intended to be watched before the online couching sessions. After the team has been able to learn online, it's time for couching online. In the online video material participants will learn:
+The online material is intended to be watched before the online couching sessions. After the team has been able to learn online, it's time for couching online. 
+
+**In the online video material participants will learn:**
 
 * API types and business models
 * API as a product
@@ -78,7 +80,9 @@ The team couching is fully online and thus globally available. Teams entering th
 * Architects
 
 
-The online material is intended to be watched before the online couching sessions. After the team has been able to learn online, it's time for couching online. In the online video material participants will learn:
+The online material is intended to be watched before the online couching sessions. After the team has been able to learn online, it's time for couching online. 
+
+**In the online video material participants will learn:**
 
 * What is developer eXperience? 
 * Expectations of the customers
@@ -108,7 +112,9 @@ Developers are now becoming more and more decision makers in companies. 38% of t
 * Community managers
 
 
-The online material is intended to be watched before the online couching sessions. After the team has been able to learn online, it's time for couching online. In the online video material participants will learn:
+The online material is intended to be watched before the online couching sessions. After the team has been able to learn online, it's time for couching online. 
+
+**In the online video material participants will learn:**
 
 * Developers as customers
 * Understanding the needs of the customers (developers)
