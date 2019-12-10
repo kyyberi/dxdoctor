@@ -35,7 +35,7 @@ Besides just writing and talking about API Economy, platform economy and Develop
 
 The team couching is fully online and thus globally available. Teams entering this package will learn how to monetise and build value internally with help of well productised APIs. Package options listed below.
 
-Intended typical participants: 
+**Intended typical participants:** 
 
 * Product Managers, Product Owners
 * Business developers
@@ -70,7 +70,7 @@ The online material is intended to be watched before the online couching session
 
 The team couching is fully online and thus globally available. Teams entering this package will learn how to build top of the world developer experience. Package options listed below.
 
-Intended typical participants: 
+**Intended typical participants:** 
 
 * Product Managers, Product Owners
 * Business developers
@@ -101,7 +101,7 @@ The online material is intended to be watched before the online couching session
 
 Developers are now becoming more and more decision makers in companies. 38% of the developers are in position to make purchase decisions. Marketing solutions (such as APIs) for them requires different approach and touch compared to B2C or B2B marketing. This package is for your company's marketing team which has to be included in API product development and sales. 
 
-Intended typical participants: 
+**Intended typical participants:** 
 
 * Sales development
 * Marketing managers and directors
