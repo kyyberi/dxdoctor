@@ -37,11 +37,11 @@ The team couching is fully online and thus globally available. Teams entering th
 
 The online material is intended to be watched before the online couching sessions. After the team has been able to learn online, it's time for couching online. In the online video material participants will learn:
 
-* Topic 1
-* Topic 1
-* Topic 1
-* Topic 1
-* Topic 1
+* API types and business models
+* API as a product
+* How APIs enable multichannel customer experience?
+* How to decrease service development time to market span with APIs? 
+* How to get started with APIs?
 
 
 | Small package | Medium package | Large package | Custom |
@@ -65,11 +65,34 @@ The team couching is fully online and thus globally available. Teams entering th
 
 The online material is intended to be watched before the online couching sessions. After the team has been able to learn online, it's time for couching online. In the online video material participants will learn:
 
-* Topic 1
-* Topic 1
-* Topic 1
-* Topic 1
-* Topic 1
+* What is developer eXperience? 
+* Expectations of the customers
+* Developers as customers and learners
+* Supporting modern service development
+* Getting started with developing Developer eXperience
+
+
+| Small package | Medium package | Large package | Custom |
+|-------|--------|---------|
+| 5 Online video lectures (see below) | 5 Online video lectures (see below) | 5 Online video lectures (see below) | 5 Online video lectures (see below)  |
+| 1 online couching session (1 hour / session) | 2 online couching sessions (1 hour / session) | 3 online couching sessions (1 hour / session) | As needed and agreed |
+| max 2 participants | max 4 participants | max 6 participants | unlimited participants |
+| 500,00 € | 1000,00 € | 2 000,00 € | Request offer |
+| <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Buy now!</a></center> | <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Buy now!</a></center> | <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Buy now!</a></center> | <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Contact!</a></center> |
+
+<div style="background-color:#ddd;padding:10px;">
+<h3 style="padding:10px;">Package 3 - Business to developer marketing 101</h3>
+</div>
+
+Developers are now becoming more and more decision makers in companies. 38% of the developers are in position to make purchase decisions. Marketing solutions (such as APIs) for them requires different approach and touch compared to B2C or B2B marketing. This package is for your company's marketing team which has to be included in API product development and sales. 
+
+The online material is intended to be watched before the online couching sessions. After the team has been able to learn online, it's time for couching online. In the online video material participants will learn:
+
+* Developers as customers
+* Understanding the needs of the customers (developers)
+* How to build and maintain Developer persona?  
+* Channels and evangelists
+* Getting started with B2D
 
 
 | Small package | Medium package | Large package | Custom |
