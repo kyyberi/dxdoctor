@@ -33,7 +33,14 @@ Besides just writing and talking about API Economy, platform economy and Develop
 <h3 style="padding:10px;">Package 1 - How to do API Monetisation?</h3>
 </div>
 
-The team couching is fully online and thus globally available. Teams entering this package will learn how to build top of the world developer experience. Package options listed below.
+The team couching is fully online and thus globally available. Teams entering this package will learn how to monetise and build value internally with help of well productised APIs. Package options listed below.
+
+Intended typical participants: 
+
+* Product Managers, Product Owners
+* Business developers
+* Project managers
+
 
 The online material is intended to be watched before the online couching sessions. After the team has been able to learn online, it's time for couching online. In the online video material participants will learn:
 
@@ -63,6 +70,14 @@ The online material is intended to be watched before the online couching session
 
 The team couching is fully online and thus globally available. Teams entering this package will learn how to build top of the world developer experience. Package options listed below.
 
+Intended typical participants: 
+
+* Product Managers, Product Owners
+* Business developers
+* Lead Developers/developers
+* Architects
+
+
 The online material is intended to be watched before the online couching sessions. After the team has been able to learn online, it's time for couching online. In the online video material participants will learn:
 
 * What is developer eXperience? 
@@ -85,6 +100,13 @@ The online material is intended to be watched before the online couching session
 </div>
 
 Developers are now becoming more and more decision makers in companies. 38% of the developers are in position to make purchase decisions. Marketing solutions (such as APIs) for them requires different approach and touch compared to B2C or B2B marketing. This package is for your company's marketing team which has to be included in API product development and sales. 
+
+Intended typical participants: 
+
+* Sales development
+* Marketing managers and directors
+* Community managers
+
 
 The online material is intended to be watched before the online couching sessions. After the team has been able to learn online, it's time for couching online. In the online video material participants will learn:
 
