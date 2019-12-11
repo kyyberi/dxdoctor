@@ -20,20 +20,20 @@ Besides just writing and talking about API Economy, platform economy and Develop
 </div>
 
 
-* **All packages contain both online learning material and team couching.** 
-* Team should use the **online course material as introduction before the online couching sessions.** Example below. The final material will have a bit higher quality. 
+* **All packages contain both online learning material and team coaching.** 
+* Team should use the **online course material as introduction before the online coaching sessions.** Example below. The final material will have a bit higher quality. 
 
 <iframe width="560" height="415" src="https://www.youtube.com/embed/yUHgEBPs_tc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Online course video material and package purchases from [https://dxdoctor.teachable.com/](https://dxdoctor.teachable.com/) 
-* After the purchase you will be given opportunity to select dates for team couching session(s) online. 
+* After the purchase you will be given opportunity to select dates for team coaching session(s) online. 
 * NDA possible if needed
 
 <div style="background-color:#ddd;padding:10px;">
 <h3 style="padding:10px;">Package 1 - How to do API Monetisation?</h3>
 </div>
 
-The team couching is fully online and thus globally available. Teams entering this package will learn how to monetise and build value internally with help of well productised APIs. Package options listed below.
+The team coaching is fully online and thus globally available. Teams entering this package will learn how to monetise and build value internally with help of well productised APIs. Package options listed below.
 
 **Intended typical participants:** 
 
@@ -42,7 +42,7 @@ The team couching is fully online and thus globally available. Teams entering th
 * Project managers
 
 
-The online material is intended to be watched before the online couching sessions. After the team has been able to learn online, it's time for couching online. 
+The online material is intended to be watched before the online coaching sessions. After the team has been able to learn online, it's time for coaching online. 
 
 **In the online video material participants will learn:**
 
@@ -56,7 +56,7 @@ The online material is intended to be watched before the online couching session
 | Small package | Medium package | Large package | Custom |
 |-------|--------|---------|
 | 5 Online video lectures (see below) | 5 Online video lectures (see below) | 5 Online video lectures (see below) | 5 Online video lectures (see below)  |
-| 1 online couching session (1 hour / session) | 2 online couching sessions (1 hour / session) | 3 online couching sessions (1 hour / session) | As needed and agreed |
+| 1 online coaching session (1 hour / session) | 2 online coaching sessions (1 hour / session) | 3 online coaching sessions (1 hour / session) | As needed and agreed |
 | max 2 participants | max 4 participants | max 6 participants | unlimited participants |
 | 500,00 € | 1000,00 € | 2 000,00 € | Request offer |
 | <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Buy now!</a></center> | <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Buy now!</a></center> | <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Buy now!</a></center> | <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Contact!</a></center> |
@@ -70,7 +70,7 @@ The online material is intended to be watched before the online couching session
 <h3 style="padding:10px;">Package 2 - How to offer top Developer eXperience?</h3>
 </div>
 
-The team couching is fully online and thus globally available. Teams entering this package will learn how to build top of the world developer experience. Package options listed below.
+The team coaching is fully online and thus globally available. Teams entering this package will learn how to build top of the world developer experience. Package options listed below.
 
 **Intended typical participants:** 
 
@@ -80,7 +80,7 @@ The team couching is fully online and thus globally available. Teams entering th
 * Architects
 
 
-The online material is intended to be watched before the online couching sessions. After the team has been able to learn online, it's time for couching online. 
+The online material is intended to be watched before the online coaching sessions. After the team has been able to learn online, it's time for coaching online. 
 
 **In the online video material participants will learn:**
 
@@ -94,7 +94,7 @@ The online material is intended to be watched before the online couching session
 | Small package | Medium package | Large package | Custom |
 |-------|--------|---------|
 | 5 Online video lectures (see below) | 5 Online video lectures (see below) | 5 Online video lectures (see below) | 5 Online video lectures (see below)  |
-| 1 online couching session (1 hour / session) | 2 online couching sessions (1 hour / session) | 3 online couching sessions (1 hour / session) | As needed and agreed |
+| 1 online coaching session (1 hour / session) | 2 online coaching sessions (1 hour / session) | 3 online coaching sessions (1 hour / session) | As needed and agreed |
 | max 2 participants | max 4 participants | max 6 participants | unlimited participants |
 | 500,00 € | 1000,00 € | 2 000,00 € | Request offer |
 | <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Buy now!</a></center> | <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Buy now!</a></center> | <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Buy now!</a></center> | <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Contact!</a></center> |
@@ -112,7 +112,7 @@ Developers are now becoming more and more decision makers in companies. 38% of t
 * Community managers
 
 
-The online material is intended to be watched before the online couching sessions. After the team has been able to learn online, it's time for couching online. 
+The online material is intended to be watched before the online coaching sessions. After the team has been able to learn online, it's time for coaching online. 
 
 **In the online video material participants will learn:**
 
@@ -126,7 +126,7 @@ The online material is intended to be watched before the online couching session
 | Small package | Medium package | Large package | Custom |
 |-------|--------|---------|
 | 5 Online video lectures (see below) | 5 Online video lectures (see below) | 5 Online video lectures (see below) | 5 Online video lectures (see below)  |
-| 1 online couching session (1 hour / session) | 2 online couching sessions (1 hour / session) | 3 online couching sessions (1 hour / session) | As needed and agreed |
+| 1 online coaching session (1 hour / session) | 2 online coaching sessions (1 hour / session) | 3 online coaching sessions (1 hour / session) | As needed and agreed |
 | max 2 participants | max 4 participants | max 6 participants | unlimited participants |
 | 500,00 € | 1000,00 € | 2 000,00 € | Request offer |
 | <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Buy now!</a></center> | <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Buy now!</a></center> | <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Buy now!</a></center> | <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Contact!</a></center> |
