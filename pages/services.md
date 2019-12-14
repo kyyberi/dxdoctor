@@ -56,7 +56,7 @@ The online material is intended to be watched before the online coaching session
 | 1 online coaching session (1 hour / session) | x online coaching sessions (1 hour / session) |
 | max 50 participants | unlimited participants |
 | 1500,00 € | Request offer |
-| <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Buy now!</a></center> | <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Contact!</a></center> |
+| <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Buy now!</a></center> | <center><a href="/contact/" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Contact!</a></center> |
 
 
 
@@ -92,7 +92,7 @@ The online material is intended to be watched before the online coaching session
 | 1 online coaching session (1 hour / session) | 2 online coaching sessions (1 hour / session) | 3 online coaching sessions (1 hour / session) | As needed and agreed |
 | max 2 participants | max 4 participants | max 6 participants | unlimited participants |
 | 500,00 € | 1000,00 € | 2 000,00 € | Request offer |
-| <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Buy now!</a></center> | <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Buy now!</a></center> | <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Buy now!</a></center> | <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Contact!</a></center> |
+| <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Buy now!</a></center> | <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Buy now!</a></center> | <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Buy now!</a></center> | <center><a href="/contact/" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Contact!</a></center> |
 
 
 
@@ -130,7 +130,7 @@ The online material is intended to be watched before the online coaching session
 | 1 online coaching session (1 hour / session) | 2 online coaching sessions (1 hour / session) | 3 online coaching sessions (1 hour / session) | As needed and agreed |
 | max 2 participants | max 4 participants | max 6 participants | unlimited participants |
 | 500,00 € | 1000,00 € | 2 000,00 € | Request offer |
-| <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Buy now!</a></center> | <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Buy now!</a></center> | <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Buy now!</a></center> | <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Contact!</a></center> |
+| <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Buy now!</a></center> | <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Buy now!</a></center> | <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Buy now!</a></center> | <center><a href="/contact/" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Contact!</a></center> |
 
 <div style="background-color:#ddd;padding:10px;">
 <h3 style="padding:10px;">Package 4 - Business to developer marketing 101</h3>
@@ -162,7 +162,7 @@ The online material is intended to be watched before the online coaching session
 | 1 online coaching session (1 hour / session) | 2 online coaching sessions (1 hour / session) | 3 online coaching sessions (1 hour / session) | As needed and agreed |
 | max 2 participants | max 4 participants | max 6 participants | unlimited participants |
 | 500,00 € | 1000,00 € | 2 000,00 € | Request offer |
-| <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Buy now!</a></center> | <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Buy now!</a></center> | <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Buy now!</a></center> | <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Contact!</a></center> |
+| <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Buy now!</a></center> | <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Buy now!</a></center> | <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Buy now!</a></center> | <center><a href="/contact/" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Contact!</a></center> |
 
 
 
