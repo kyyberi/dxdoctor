@@ -6,7 +6,7 @@ permalink: /services/
 menu: true
 ---
 
-# Services
+# Services - Executive online training
 
 <img src="/assets/img/dxdoctor-logo.png" alt="DX Doctor Logo" width="1238">
 
