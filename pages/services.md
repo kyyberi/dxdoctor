@@ -55,7 +55,7 @@ The online material is intended to be watched before the online coaching session
 | 3 Online video lectures (see above) | 3 Online video lectures (see above) |
 | 1 online coaching session (1 hour / session) | x online coaching sessions (1 hour / session) |
 | max 5 participants | unlimited participants |
-| 3500,00 € | Request offer |
+| 5 000,00 € | Request offer |
 | <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Buy now!</a></center> | <center><a href="/contact/" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Contact!</a></center> |
 
 
