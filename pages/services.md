@@ -15,7 +15,7 @@ Besides just writing and talking about API Economy, platform economy and Develop
 
 <div style="background-color:#ddd;padding:10px;">
 <div>
-<h2 style="padding:10px;">4 Awareness and Team Training packages</h2>
+<h2 style="padding:10px;">CxO level coaching packages</h2>
 </div>
 </div>
 
