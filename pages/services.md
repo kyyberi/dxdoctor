@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Services
+title: Services - Executive online training
 description: Doctor of Developer eXperience services
 permalink: /services/
 menu: true
@@ -10,7 +10,7 @@ menu: true
 
 <img src="/assets/img/dxdoctor-logo.png" alt="DX Doctor Logo" width="1238">
 
-Besides just writing and talking about API Economy, platform economy and Developer eXperience I do consulting and in-house training for company staff. above you'll find affordable packages to start with. If you need something custom, contact me and let's make it happen. All prices without VAT which will be added to the bill. 
+Besides just writing and talking about API Economy, platform economy and Developer eXperience I do consulting and in-house training for company staff. Below you'll find affordable packages to start with. If you need something custom, contact me and let's make it happen. All prices without VAT which will be added to the bill. 
 
 
 <div style="background-color:#ddd;padding:10px;">
