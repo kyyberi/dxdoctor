@@ -36,7 +36,7 @@ If you need something custom, contact me and let's make it happen. All prices wi
 * NDA possible if needed
 
 <div style="background-color:#ddd;padding:10px;">
-<h3 style="padding:10px;">Package 1 - Increase awareness on what is API and platform economy</h3>
+<h3 style="padding:10px;">Package 1 - How to increase revenue with APIs and platform economy?</h3>
 </div>
 
 The team coaching is fully online and thus globally available. After your staff has watched the online video material, it's time for coaching online, it's time to provide answers to any question raised from the material. Package options listed above.
@@ -49,42 +49,11 @@ The team coaching is fully online and thus globally available. After your staff 
 
 The online material is intended to be watched before the online coaching sessions. 
 
-**In the online video material participants will learn:**
+**In the coaching participants will learn:**
 
 * What is API, API and platform economy explained in layman terms? 
 * Why all the fuzz around APIs? What is the typical business value gained?
 * Why developers are the primary customers? 
-
-
-| Standard | Custom |
-|-------|--------|
-| 3 Online video lectures (see above) | 3 Online video lectures (see above) |
-| 1 online coaching session (1 hour / session) | x online coaching sessions (1 hour / session) |
-| max 5 participants | unlimited participants |
-| 5 000,00 € | Request offer |
-| <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Buy now!</a></center> | <center><a href="/contact/" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Contact!</a></center> |
-
-
-
-<div style="background-color:#fff;padding:10px;">&nbsp;</div>
-
-<div style="background-color:#ddd;padding:10px;">
-<h3 style="padding:10px;">Package 2 - How to do API Monetisation?</h3>
-</div>
-
-The team coaching is fully online and thus globally available. Teams entering this package will learn how to monetise and build value internally with help of well productised APIs. Package options listed above.
-
-**Intended typical participants:** 
-
-* Product Managers, Product Owners
-* Business developers
-* Project managers
-
-
-The online material is intended to be watched before the online coaching sessions. After the team has been able to learn online, it's time for coaching online. 
-
-**In the online video material participants will learn:**
-
 * API types and business models
 * API as a product
 * How APIs enable multichannel customer experience?
@@ -92,13 +61,13 @@ The online material is intended to be watched before the online coaching session
 * How to get started with APIs?
 
 
-| Small package | Medium package | Large package | Custom |
-|-------|--------|---------|
-| 5 Online video lectures (see above) | 5 Online video lectures (see above) | 5 Online video lectures (see above) | 5 Online video lectures (see above)  |
-| 1 online coaching session (1 hour / session) | 2 online coaching sessions (1 hour / session) | 3 online coaching sessions (1 hour / session) | As needed and agreed |
-| max 2 participants | max 4 participants | max 6 participants | unlimited participants |
-| 3 000,00 € | 4 000,00 € | 5 000,00 € | Request offer |
-| <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Buy now!</a></center> | <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Buy now!</a></center> | <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Buy now!</a></center> | <center><a href="/contact/" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Contact!</a></center> |
+| Standard | Custom |
+|-------|--------|
+| 3 Online video lectures (see above topics) | 3 Online video lectures (see above topics) |
+| 2 online coaching session (1 hour / session) | x online coaching sessions (1 hour / session) |
+| max 5 participants | 5+ participants |
+| 5 000,00 € | Request offer |
+| <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Buy now!</a></center> | <center><a href="/contact/" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Contact!</a></center> |
 
 
 
