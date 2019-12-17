@@ -10,7 +10,13 @@ menu: true
 
 <img src="/assets/img/dxdoctor-logo.png" alt="DX Doctor Logo" width="1238">
 
-Besides just writing and talking about API Economy, platform economy and Developer eXperience I do consulting and in-house training for company staff. Below you'll find affordable packages to start with. If you need something custom, contact me and let's make it happen. All prices without VAT which will be added to the bill. 
+Besides just writing and talking about API Economy, platform economy and Developer eXperience I do consulting and in-house training for company staff. 
+
+C-level decision makers and other key personnel in companies **must understandard what is API and Platform Economy to avoid enormous revenue losses**. Digitalisation is built around APIs and platforms. 
+
+Below you'll find high quality online training packages. Why online? The key personnel are travelling and often trouble finding time to find time for training and coaching. **The combination of self-service video material and online coaching sessions offer needed flexibility in scheduling learning.** 
+
+If you need something custom, contact me and let's make it happen. All prices without VAT which will be added to the bill. 
 
 
 <div style="background-color:#ddd;padding:10px;">
