@@ -6,7 +6,7 @@ subtitle: System 1 and System 2 as part of designing developer experience
 description: >-
   Episode binds together Kahneman's theory of systems, Flow experience by Mihály Csíkszentmihályi and Cognitive ease around better developer experience. The result offers a base to increase Business to Developer marketing and sales. 
 image: /assets/img/005.jpg
-optimized_image: /assets/img/05-1.jpg
+optimized_image: /assets/img/005-1.jpg
 category: video
 tags:
   - Video
