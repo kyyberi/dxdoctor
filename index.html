@@ -3,9 +3,9 @@ layout: main
 ---
 
 {% if site.paginate %}
-    {% assign posts = paginator.posts | where_exp:"post","post.is_generated != true" %}
+    {% assign posts = paginator.posts | where_exp:"post", "season" = "1", "post.is_generated != true" %}
 {% else %}
-    {% assign posts = site.posts | where_exp:"post","post.is_generated != true" %}
+    {% assign posts = site.posts | where_exp:"post", "season" = "1", "post.is_generated != true" %}
 {% endif %}
 
 {% if site.show_hero %}
@@ -39,6 +39,9 @@ layout: main
         </section>
     {% endif %}
     <!-- Posts -->
+    <section class="row flex-grid">
+    <h1 class="title" style="color:#fff;margin-left:15px;">Season 1 (2019)</h1>
+    </section>
     <section id="grid" class="row flex-grid">
         {% for post in posts offset: offset %}
             <article class="box-item">

@@ -3,6 +3,7 @@ date: 2019-10-01 23:48:05
 layout: post
 title: Economics of the Developer eXperience
 subtitle: Why DX matters in product development and sales
+season: 1
 description: >-
   This blog is our journey to academic Developer eXperience
 image: /assets/img/header.jpg
