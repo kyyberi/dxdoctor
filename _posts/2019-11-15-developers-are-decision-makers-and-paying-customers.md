@@ -3,7 +3,7 @@ date: 2019-11-15 18:48:05
 layout: post
 title: Developers are decision makers and paying customers
 subtitle: Details of the B2D markets
-season: 1
+season: "1"
 description: >-
   Episode discusses developers as customers, the amount of them in global level, their purchase capability and suggestion of B2D Product Strategy
 image: /assets/img/001.jpg
