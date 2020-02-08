@@ -28,7 +28,7 @@ If you need something custom, contact me and let's make it happen. All prices wi
 
 | Small package | Medium package | Large package | Custom |
 |-------|--------|---------|
-| 5 Online video lectures (see above) | 5 Online video lectures (see above) | 5 Online video lectures (see above) | 5 Online video lectures (see above)  |
+| 5 Online video lectures | 5 Online video lectures | 5 Online video lectures | 5 Online video lectures |
 | 1 online / on premises coaching session (1 hour / session) | 2 online / on premises coaching sessions (1 hour / session) | 3 online coaching / on premises sessions (1 hour / session) | As needed and agreed |
 | max 2 participants | max 4 participants | max 6 participants | unlimited participants |
 | 5 000,00 € | 7 000,00 € | 9 000,00 € | Request offer |
