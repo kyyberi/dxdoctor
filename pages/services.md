@@ -30,8 +30,8 @@ If you need something custom, contact me and let's make it happen. All prices wi
 |-------|--------|---------|
 | 5 Online video lectures | 5 Online video lectures | 5 Online video lectures | 5 Online video lectures |
 | 1 online / on premises coaching session (1 hour / session) | 2 online / on premises coaching sessions (1 hour / session) | 3 online coaching / on premises sessions (1 hour / session) | As needed and agreed |
-| max 2 participants | max 4 participants | max 6 participants | unlimited participants |
-| 5 000,00 € + traveling expenses | 7 000,00 €  + traveling expenses | 9 000,00 €  + traveling expenses | Request offer |
+| max 6 participants | max 6 participants | max 6 participants | unlimited participants |
+| 4 000,00 € + traveling expenses | 6 000,00 €  + traveling expenses | 8 000,00 €  + traveling expenses | Request offer |
 | <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Buy now!</a></center> | <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Buy now!</a></center> | <center><a href="" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Buy now!</a></center> | <center><a href="/contact/" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Contact!</a></center> |
 
 
