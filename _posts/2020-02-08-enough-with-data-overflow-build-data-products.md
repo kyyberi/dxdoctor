@@ -5,7 +5,7 @@ title: Enough with data overflow – build data products
 subtitle: Instead treat data as products. Refine, commoditize, and package it for internal and public consumption.
 season: "2"
 description: >-
-  Episode presents initial data product definition and shows how data products and APIs are related. The signifigance of DX is also included. In the episode you are introduced briefly to the [Platform of Trust](https://platformoftrust.net) as an example of data product driven platform. 
+  Episode presents initial data product definition and shows how data products and APIs are related. The signifigance of DX is also included. In the episode you are introduced briefly to the Platform of Trust as an example of data product driven platform. 
 image: /assets/img/006.jpg
 optimized_image: /assets/img/006-1.jpg
 category: video
