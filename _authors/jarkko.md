@@ -3,8 +3,11 @@ layout: author
 photo: /assets/img/uploads/jarkko.jpg
 name: jarkkomoilanen
 display_name: Jarkko Moilanen
-position: Researcher, PhD (3d printing ecosystem)
+position: Chief Development Officer, APItalist, PhD (3d printing ecosystem)
 bio: |+ 
+    Chief Development Officer at <a href="https://platformoftrust.net">Platform of Trust</a>. Certified SAFe agilist. 
+    <br/><br/>
+    
     Igniter and co-Author of API Economy 101 book about API economy. Jarkko is leading API economy expert in Finland, experienced speaker at international events, long term API and open source community builder (API:Suomi) and passionate API Developer eXperience (APIOps) developer. <br/><br/>
     
 
