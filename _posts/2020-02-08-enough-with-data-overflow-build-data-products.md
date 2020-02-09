@@ -11,11 +11,11 @@ optimized_image: /assets/img/006-1.jpg
 category: video
 tags:
   - Video
-  - Data product
+  - Data-product
   - DX
   - API
   - VPI
-  - Platform of Trust
+  - Platform-of-trust
 author: jarkko_moilanen
 paginate: true
 ---
