@@ -5,7 +5,7 @@ title: Pareto principle (80/20) and Developer eXperience – why should I care?
 subtitle: How to use Pareto principle in building awesome developer experience
 season: "2"
 description: >-
-  The episode presents the famous Pareto principle (80/20) and some examples in the software development with academic references. You will learn how the principle can be used in optimizing the developer experience of APIs. Contains 4 prractical examples how to apply it in API development.  
+  The episode presents the famous Pareto principle (80/20) and some examples in the software development with academic references. You will learn how the principle can be used in optimizing the developer experience of APIs. Contains 4 practical examples how to apply it in API development.  
 image: /assets/img/007.jpg
 optimized_image: /assets/img/007-1.jpg
 category: video
