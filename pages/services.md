@@ -19,7 +19,7 @@ Below you'll find high quality online training packages. Why online? The key per
 If you need something custom, contact me and let's make it happen. All prices without VAT which will be added to the bill. 
 
 
-<div style="background-color:#ddd;padding:10px;">
+<div style="background-color:#ddd;padding:0px;">
 <div syle="text-align: center; vertical-align: middle;margin: auto;">
 <img src="/assets/img/dxdoctor-package.png"/>
 <h2 style="padding:10px;">CxO level coaching packages</h2>
