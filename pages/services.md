@@ -28,7 +28,7 @@ If you need something custom, <a href="/contact/">contact</a> me and let's make 
 </div>
 
 
-| <img src="/assets/img/standard-package-icon.png"/> STANDARD package |<img src="/assets/img/medium-package-icon.png"/> MEDIUM package (popular) | <img src="/assets/img/large-package-icon.png"/> LARGE package |
+| <img src="/assets/img/standard-package-icon.png"/> STANDARD package |<img src="/assets/img/medium-package-icon.png"/> MEDIUM package | <img src="/assets/img/large-package-icon.png"/> LARGE package |
 |-------|--------|---------|
 | **5 Online video lectures** (preview coming soon) | **5 Online video lectures** (preview coming soon) | **5 Online video lectures** (preview coming soon) | 
 | **1 coaching session** online / on premises (1 hour / session) | **2 coaching sessions** online / on premises (1 hour / session) | **3 coaching sessions** online / on premises (1 hour / session) 
