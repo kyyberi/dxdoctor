@@ -32,7 +32,7 @@ If you need something custom, <a href="/contact/">contact</a> me and let's make 
 |-------|--------|---------|
 | **5 Online video lectures** (preview coming soon) | **5 Online video lectures** (preview coming soon) | **5 Online video lectures** (preview coming soon) | 
 | **1 coaching session** online / on premises (1 hour / session) | **2 coaching sessions** online / on premises (1 hour / session) | **3 coaching sessions** online / on premises (1 hour / session) 
-| max 6 participants | max 6 participants | max 6 participants 
+| max 10 participants | max 6 participants | max 10 participants 
 | **2 000,00 €** + traveling expenses | **3 000,00 €**  + traveling expenses | **4 000,00 €**  + traveling expenses 
 | <center><a href="/services/cxo/standard/order" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">1 step purchase!</a></center> | <center><a href="/services/cxo/medium/order" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">1 step purchase!</a></center> | <center><a href="/services/cxo/large/order" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">1 step purchase!</a></center> | 
 
