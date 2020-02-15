@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Services - Executive online training
+title: Doctor of Developer eXperience Services - Executive level coaching
 description: Doctor of Developer eXperience services
 permalink: /services/
 menu: true
