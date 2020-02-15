@@ -28,7 +28,7 @@ If you need something custom, <a href="/contact/">contact</a> me and let's make 
 </div>
 
 
-| Standard package | Medium package | Large package |
+| Standard package | **Medium package** | Large package |
 |-------|--------|---------|
 | 5 Online video lectures (preview coming soon) | 5 Online video lectures (preview coming soon) | 5 Online video lectures (preview coming soon) | 
 | 1 online / on premises coaching session (1 hour / session) | 2 online / on premises coaching sessions (1 hour / session) | 3 online coaching / on premises sessions (1 hour / session) 
