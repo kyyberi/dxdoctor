@@ -6,7 +6,7 @@ permalink: /services/
 menu: true
 ---
 
-# Executive level coaching
+# Executive level API and platform economy coaching
 
 <img src="/assets/img/dxdoctor-logo.png" alt="DX Doctor Logo" width="1238">
 
