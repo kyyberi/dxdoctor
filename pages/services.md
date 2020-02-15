@@ -26,7 +26,7 @@ If you need something custom, contact me and let's make it happen. All prices wi
 </div>
 
 
-| Small package | Medium package | Large package | Custom |
+| Small package | Medium package | Large package |
 |-------|--------|---------|
 | 5 Online video lectures | 5 Online video lectures | 5 Online video lectures | 
 | 1 online / on premises coaching session (1 hour / session) | 2 online / on premises coaching sessions (1 hour / session) | 3 online coaching / on premises sessions (1 hour / session) 
