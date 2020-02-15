@@ -12,7 +12,11 @@ menu: true
 
 Besides just writing and talking about API Economy, platform economy and Developer eXperience I do consulting and in-house training for company staff - mostly C-level. 
 
+### Avoid revenue losses
+
 C-level decision makers and other key personnel in companies **must understandard what is API and Platform Economy to avoid enormous revenue losses**. Digitalisation is built around APIs and platforms. 
+
+### Flexible coaching
 
 Below you'll find high quality online training packages. Why online? The key personnel are travelling and often have difficulties to find time for training and coaching. Besides meetings, and discussions are now online by default, why would coaching be different? **The combination of self-service video material and online coaching sessions offer needed flexibility in scheduling learning.** 
 
