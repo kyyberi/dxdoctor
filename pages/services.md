@@ -20,7 +20,7 @@ If you need something custom, contact me and let's make it happen. All prices wi
 
 
 <div style="background-color:#ddd;padding:10px;">
-<div>
+<div syle="text-align: center; vertical-align: middle;">
 <img src="/assets/img/dxdoctor-package.png"/>
 <h2 style="padding:10px;">CxO level coaching packages</h2>
 </div>
