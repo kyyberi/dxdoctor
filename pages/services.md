@@ -30,10 +30,10 @@ If you need something custom, <a href="/contact/">contact</a> me and let's make 
 
 | Standard package | **Medium package** | Large package |
 |-------|--------|---------|
-| 5 Online video lectures (preview coming soon) | 5 Online video lectures (preview coming soon) | 5 Online video lectures (preview coming soon) | 
-| 1 online / on premises coaching session (1 hour / session) | 2 online / on premises coaching sessions (1 hour / session) | 3 online coaching / on premises sessions (1 hour / session) 
+| **5 Online video lectures** (preview coming soon) | **5 Online video lectures** (preview coming soon) | **5 Online video lectures** (preview coming soon) | 
+| **1 coaching session** online / on premises (1 hour / session) | **2 coaching sessions** online / on premises (1 hour / session) | **2 coaching sessions** online / on premises (1 hour / session) 
 | max 6 participants | max 6 participants | max 6 participants 
-| 2 000,00 € + traveling expenses | 3 000,00 €  + traveling expenses | 4 000,00 €  + traveling expenses 
+| **2 000,00 €** + traveling expenses | **3 000,00 €**  + traveling expenses | **4 000,00 €**  + traveling expenses 
 | <center><a href="/services/cxo/standard/order" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">1 step purchase!</a></center> | <center><a href="/services/cxo/medium/order" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">1 step purchase!</a></center> | <center><a href="/services/cxo/large/order" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">1 step purchase!</a></center> | 
 
 
