@@ -37,7 +37,9 @@ If you need something custom, contact me and let's make it happen. All prices wi
 
 ## Something else? 
 
-If you need something custom, <a href="/contact/">contact</a> me and let's make it happen. 
+If you need something custom or for example introduction to API and platform economy, <a href="/contact/">contact</a> me and let's make it happen. 
+
+I do also give pro bono lectures in universities. 
 
 
 <img class="img-rounded" src="/assets/img/uploads/jarkko-full.png" alt="Jarkko APItalist Moilanen" width="400">
