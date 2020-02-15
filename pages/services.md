@@ -18,7 +18,7 @@ Below you'll find high quality online training packages. Why online? The key per
 
 If you need something custom, <a href="/contact/">contact</a> me and let's make it happen. All prices without VAT which will be added to the bill. 
 
-<a name="services"/>
+<a name="packages"/>
 <div style="background-color:#ddd;padding:0px;">
 <div syle="text-align: center; vertical-align: middle;margin: auto;">
 <img src="/assets/img/dxdoctor-package.png"/>
