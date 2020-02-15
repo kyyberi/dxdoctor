@@ -73,7 +73,7 @@ permalink: /services/cxo/standard/order
         <textarea name="message" onkeyup="adjust_textarea(this)" placeholder="Additional information: wanted start date and location." v-validate="'required'"
                   :class="{ 'has-error': errors.has('message') }"></textarea>
         <span v-if="errors.has('message')" v-cloak>${ errors.first('message') }</span>
-        <p>You will receive confirmation after the order has been processed.</p>
+        <p>You will receive email confirmation after the order has been processed.</p>
         <button type="submit">Send</button>
       </fieldset>
     </form>
