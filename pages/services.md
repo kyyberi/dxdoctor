@@ -22,8 +22,8 @@ If you need something custom, <a href="/contact/">contact</a> me and let's make 
 <div style="background-color:#ddd;padding:0px;">
 <div syle="text-align: center; vertical-align: middle;margin: auto;">
 <img src="/assets/img/dxdoctor-package.png"/>
-<h2 style="padding:10px;text-align: center; vertical-align: middle;">CxO level coaching packages</h2>
-<p syle="text-align: center; vertical-align: middle;">Buy coaching from experienced API and platform economy professional</p>
+<h3 style="padding:10px;text-align: center; vertical-align: middle;">CxO level coaching packages from experienced API and platform economy professional</h3>
+
 </div>
 </div>
 
