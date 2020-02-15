@@ -23,6 +23,7 @@ If you need something custom, <a href="/contact/">contact</a> me and let's make 
 <div syle="text-align: center; vertical-align: middle;margin: auto;">
 <img src="/assets/img/dxdoctor-package.png"/>
 <h2 style="padding:10px;text-align: center; vertical-align: middle;">CxO level coaching packages</h2>
+<p>Buy coaching from experienced API and platform economy professional</p>
 </div>
 </div>
 
