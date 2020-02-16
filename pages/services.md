@@ -17,13 +17,15 @@ Besides just writing and talking about API Economy, platform economy and Develop
 
 ### Avoid revenue losses
 
-Digitalisation is all-around. **API Economy, Platform Economy and rising Data Economy are all intertwined.** C-level decision makers and other key personnel in companies **must understandard what is API and Platform Economy to avoid enormous revenue losses**. Digitalisation is built around APIs, platforms and data which enable data driven decision making and exponential growth. 
+
+
+<img src="/assets/img/growth.png" style="float:left;padding:20px;width:100px;"/> Digitalisation is all-around. **API Economy, Platform Economy and rising Data Economy are all intertwined.** C-level decision makers and other key personnel in companies **must understandard what is API and Platform Economy to avoid enormous revenue losses**. Digitalisation is built around APIs, platforms and data which enable data driven decision making and exponential growth. 
 
 Excellent Developer eXperience (DX) is the key in winning the competition since **38% of the developers in global level decide on purchases and 45% make recommendations.** Focus on the growing importance of developers is the core of Executive coaching. 
 
 ### Flexible coaching
 
-<a href="#packages">Below</a> you'll find high quality online training packages. Why online? The key personnel are travelling and often have difficulties to find time for training and coaching. Besides meetings, and discussions are now online by default, why would coaching be different? **The combination of self-service video material and online coaching sessions offer needed flexibility in scheduling learning.** 
+<img src="/assets/img/group.png" style="float:left;padding:20px;width:100px;"/>  <a href="#packages">Below</a> you'll find high quality online training packages. Why online? The key personnel are travelling and often have difficulties to find time for training and coaching. Besides meetings, and discussions are now online by default, why would coaching be different? **The combination of self-service video material and online coaching sessions offer needed flexibility in scheduling learning.** 
 
 If you need something custom, <a href="/contact/">contact</a> me and let's make it happen. All prices without VAT which will be added to the bill. 
 
