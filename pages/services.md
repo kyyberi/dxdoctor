@@ -36,6 +36,7 @@ Digitalisation and possible revenue losses worry practically all organisations. 
 - Metso Automation (paper mills)
 - Checkout Finland (banking and payments business)
 
+### Three packages
 
 <a name="packages"/>
 <div style="background-color:#ddd;padding:0px;">
