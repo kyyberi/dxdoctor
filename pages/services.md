@@ -27,6 +27,16 @@ Excellent Developer eXperience (DX) is the key in winning the competition since 
 
 If you need something custom, <a href="/contact/">contact</a> me and let's make it happen. All prices without VAT which will be added to the bill. 
 
+### Coaching fits for all
+
+Digitalisation and possible revenue losses worry practically all organisations. Here's a few organisations I've coached and helped to get started or grow. 
+
+- YIT Oyj (construction and real estates)
+- Konecranes Global Oyj (cranes and logistics)
+- Metso Automation (paper mills)
+- Checkout Finland (payments business)
+
+
 <a name="packages"/>
 <div style="background-color:#ddd;padding:0px;">
 <div syle="text-align: center; vertical-align: middle;margin: auto;">
