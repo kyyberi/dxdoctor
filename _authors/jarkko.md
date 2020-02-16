@@ -8,10 +8,10 @@ bio: |+
     Chief Development Officer at <a href="https://platformoftrust.net">Platform of Trust</a>. Certified SAFe agilist. 
     <br/><br/>
     
-    Jarkko is leading API economy expert in Finland, experienced speaker at international events, long term API and open source community builder (API:Suomi) and passionate API Developer eXperience (APIOps) developer. 
+    Jarkko is leading API economy expert in Finland, experienced speaker at international events, long term API and open source community builder (API:Suomi) and passionate API Developer eXperience (APIOps) developer. As a sign of thought leadership Jarkko has been selected 3 times in a row to Tivi TOP 100 ICT-influencers list.  
 
     <br/><br/>
-    
+
     Igniter and co-Author of <a href="https://www.amazon.com/API-Economy-101-Jarkko-Moilanen/dp/9528008496">API Economy 101</a> book about API economy. Currently under work is a book about winning the hearts of the developers - <a href="https://buildfordevelopers.com">Build for the Developers</a>. 
    
     <br/><br/>
