@@ -13,7 +13,7 @@ menu: true
 
 </center>
 
-<img src="/assets/img/process.png" style="float:left;padding:20px;padding-left:0px;width:100px;"/> Besides leading the development of one platform (Platform of Trust), just writing and talking about API Economy, platform economy and Developer eXperience I do consulting and in-house training for company staff - mostly C-level. In the training focus is on ramping your organisation and objectives for growth. **Organisations use coaching to get started and to increase awareness of the opportunities and avoid potential losses.**     
+<img src="/assets/img/process.png" style="float:left;padding:20px;padding-left:0px;width:100px;"/> Besides leading the development of one platform (Platform of Trust), just writing and talking about API Economy, platform economy and Developer eXperience I do consulting and in-house training for company staff - mostly C-level. In the training focus is on ramping your organisation and objectives for growth. **Organisations use coaching to get started and to increase awareness of the opportunities, avoid potential losses and align organisation to goal-oriented processes.**     
 
 ### Avoid revenue losses
 
