@@ -17,7 +17,7 @@ Besides just writing and talking about API Economy, platform economy and Develop
 
 ### Avoid revenue losses
 
-Digitalisation is all-around. API Economy, Platform Economy and rising Data Economy are all intertwined. C-level decision makers and other key personnel in companies **must understandard what is API and Platform Economy to avoid enormous revenue losses**. Digitalisation is built around APIs, platforms and data which enable data driven decision making and exponential growth. 
+Digitalisation is all-around. **API Economy, Platform Economy and rising Data Economy are all intertwined.** C-level decision makers and other key personnel in companies **must understandard what is API and Platform Economy to avoid enormous revenue losses**. Digitalisation is built around APIs, platforms and data which enable data driven decision making and exponential growth. 
 
 ### Flexible coaching
 
