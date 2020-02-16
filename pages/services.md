@@ -13,17 +13,17 @@ menu: true
 
 </center>
 
-<img src="/assets/img/process.png" style="float:left;padding:20px;width:100px;"/> Besides leading the development of one platform (Platform of Trust), just writing and talking about API Economy, platform economy and Developer eXperience I do consulting and in-house training for company staff - mostly C-level. In the training focus is on ramping your organisation and objectives for growth. **Organisations use coaching to get started and to increase awareness of the opportunities and avoid potential losses.**     
+<img src="/assets/img/process.png" style="float:left;padding:20px;padding-left:0px;width:100px;"/> Besides leading the development of one platform (Platform of Trust), just writing and talking about API Economy, platform economy and Developer eXperience I do consulting and in-house training for company staff - mostly C-level. In the training focus is on ramping your organisation and objectives for growth. **Organisations use coaching to get started and to increase awareness of the opportunities and avoid potential losses.**     
 
 ### Avoid revenue losses
 
-<img src="/assets/img/growth.png" style="float:left;padding:20px;width:100px;"/> Digitalisation is all-around. **API Economy, Platform Economy and rising Data Economy are all intertwined.** C-level decision makers and other key personnel in companies **must understandard what is API and Platform Economy to avoid enormous revenue losses**. Digitalisation is built around APIs, platforms and data which enable data driven decision making and exponential growth. 
+<img src="/assets/img/growth.png" style="float:left;padding:20px;padding-left:0px;width:100px;"/> Digitalisation is all-around. **API Economy, Platform Economy and rising Data Economy are all intertwined.** C-level decision makers and other key personnel in companies **must understandard what is API and Platform Economy to avoid enormous revenue losses**. Digitalisation is built around APIs, platforms and data which enable data driven decision making and exponential growth. 
 
 Excellent Developer eXperience (DX) is the key in winning the competition since **38% of the developers in global level decide on purchases and 45% make recommendations.** Focus on the growing importance of developers is the core of Executive coaching. 
 
 ### Flexible coaching
 
-<img src="/assets/img/group.png" style="float:left;padding:20px;width:100px;"/> Coaching should not be mixed with lecturing. That is handled with online material. A coach focuses on working with a client to target development areas while supporting them in setting and managing a goal-oriented process.   
+<img src="/assets/img/group.png" style="float:left;padding:20px;padding-left:0px;width:100px;"/> Coaching should not be mixed with lecturing. That is handled with online material. A coach focuses on working with a client to target development areas while supporting them in setting and managing a goal-oriented process.   
 
 <a href="#packages">Below</a> you'll find high packages, which all contain hihg quality professional online training video material. Why online? The key personnel are travelling and often have difficulties to find time for training and coaching. Besides meetings, and discussions are now online by default, why would coaching be different? **The combination of self-service video material and online coaching sessions offer needed flexibility in scheduling learning.** 
 
