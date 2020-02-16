@@ -21,7 +21,7 @@ C-level decision makers and other key personnel in companies **must understandar
 
 ### Flexible coaching
 
-Below you'll find high quality online training packages. Why online? The key personnel are travelling and often have difficulties to find time for training and coaching. Besides meetings, and discussions are now online by default, why would coaching be different? **The combination of self-service video material and online coaching sessions offer needed flexibility in scheduling learning.** 
+<a href="#packages">Below</a> you'll find high quality online training packages. Why online? The key personnel are travelling and often have difficulties to find time for training and coaching. Besides meetings, and discussions are now online by default, why would coaching be different? **The combination of self-service video material and online coaching sessions offer needed flexibility in scheduling learning.** 
 
 If you need something custom, <a href="/contact/">contact</a> me and let's make it happen. All prices without VAT which will be added to the bill. 
 
