@@ -13,11 +13,11 @@ menu: true
 
 </center>
 
-Besides just writing and talking about API Economy, platform economy and Developer eXperience I do consulting and in-house training for company staff - mostly C-level. 
+Besides just writing and talking about API Economy, platform economy and Developer eXperience I do consulting and in-house training for company staff - mostly C-level. In the training focus is on ramping your organisation and objectives for growth. Organisations use coaching to get started and to increase awareness of the opportunities and avoid potential losses. 
 
 ### Avoid revenue losses
 
-C-level decision makers and other key personnel in companies **must understandard what is API and Platform Economy to avoid enormous revenue losses**. Digitalisation is built around APIs and platforms. 
+Digitalisation is all-around. API Economy, Platform Economy and rising Data Economy are all intertwined. C-level decision makers and other key personnel in companies **must understandard what is API and Platform Economy to avoid enormous revenue losses**. Digitalisation is built around APIs, platforms and data which enable data driven decision making and exponential growth. 
 
 ### Flexible coaching
 
