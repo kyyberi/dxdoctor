@@ -6,9 +6,12 @@ permalink: /services/
 menu: true
 ---
 
+<img src="/assets/img/dx-services.png" alt="DX Doctor Services Logo" width="777">
+<center>
+
 # Executive level API and platform economy coaching
 
-<img src="/assets/img/dx-services.png" alt="DX Doctor Services Logo" width="777">
+</center>
 
 Besides just writing and talking about API Economy, platform economy and Developer eXperience I do consulting and in-house training for company staff - mostly C-level. 
 
