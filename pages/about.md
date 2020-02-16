@@ -22,9 +22,9 @@ Below is my path to the moment I started the video blog.
 
 ## Something was missing
 
-I should have seen this coming already in July this year. One day then I felt the urge to start something bigger around developer experience. I've been working with the topic for some years now and I felt like something was missing. So I started [#100DaysDX](https://100daysdx.com) series. It involved one DX related post every day. That series is still on-going (now post #78). Around post #60 I started to have an itch again. I felt like yes this is sort of the right thing to do, but still I'm missing something. 
+I should have seen this coming already in July this year. One day then I felt the urge to start something bigger around developer experience. I've been working with the topic for some years now and I felt like something was missing. So I started [#100DaysDX](https://100daysdx.com) series. Around post #60 I started to have an itch again. I felt like yes this is sort of the right thing to do, but still I'm missing something. 
 
-After the summer I had some discussions with my boss Toni Luhti (CEO) about making another PhD. He's about to have the dissertation for the 1st one any day now. We had agreed that we would actually go for the 2nd round but details we're lacking and real action too. 
+After the summer I had some discussions with my boss Toni Luhti (CEO) about making another PhD. He's about to have the dissertation for the 1st one any day now. We had agreed that we would actually go for the 2nd round but details we're lacking and real actions too. 
 
 ## The moment of truth
 
