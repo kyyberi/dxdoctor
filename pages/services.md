@@ -8,7 +8,7 @@ menu: true
 
 # Executive level API and platform economy coaching
 
-<img src="/assets/img/dxdoctor-logo.png" alt="DX Doctor Logo" width="1238">
+<img src="/assets/img/dx-services.png" alt="DX Doctor Services Logo" width="777">
 
 Besides just writing and talking about API Economy, platform economy and Developer eXperience I do consulting and in-house training for company staff - mostly C-level. 
 
@@ -34,7 +34,7 @@ If you need something custom, <a href="/contact/">contact</a> me and let's make 
 
 | <img src="/assets/img/standard-package-icon.png"/> STANDARD package |<img src="/assets/img/medium-package-icon.png"/> MEDIUM package | <img src="/assets/img/large-package-icon.png"/> LARGE package |
 |-------|--------|---------|
-| **5 Online video lectures** (preview coming soon) | **5 Online video lectures** (preview coming soon) | **5 Online video lectures** (preview coming soon) | 
+|  **5 Online video lectures** (preview coming soon) | **5 Online video lectures** (preview coming soon) | **5 Online video lectures** (preview coming soon) | 
 | **1 coaching session** online / on premises (1 hour / session) | **2 coaching sessions** online / on premises (1 hour / session) | **3 coaching sessions** online / on premises (1 hour / session) 
 | max 6 participants | max 10 participants | max 10 participants 
 | **3 000,00 €** + traveling expenses | **4 000,00 €**  + traveling expenses | **6 000,00 €**  + traveling expenses 
