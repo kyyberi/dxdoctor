@@ -34,7 +34,7 @@ Digitalisation and possible revenue losses worry practically all organisations. 
 - YIT Oyj (construction and real estates)
 - Konecranes Global Oyj (cranes and logistics)
 - Metso Automation (paper mills)
-- Checkout Finland (payments business)
+- Checkout Finland (banking and payments business)
 
 
 <a name="packages"/>
