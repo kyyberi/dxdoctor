@@ -13,7 +13,7 @@ menu: true
 
 </center>
 
-<img src="/assets/img/process.png" style="float:left;padding:20px;width:100px;"/> Besides leading the development of one platform (Platform of Trust), just writing and talking about API Economy, platform economy and Developer eXperience I do consulting and in-house training for company staff - mostly C-level. In the training focus is on ramping your organisation and objectives for growth. **Organisations use coaching to get started and to increase awareness of the opportunities and avoid potential losses.** 
+<img src="/assets/img/process.png" style="float:left;padding:20px;width:100px;"/> Besides leading the development of one platform (Platform of Trust), just writing and talking about API Economy, platform economy and Developer eXperience I do consulting and in-house training for company staff - mostly C-level. In the training focus is on ramping your organisation and objectives for growth. **Organisations use coaching to get started and to increase awareness of the opportunities and avoid potential losses.**     
 
 ### Avoid revenue losses
 
@@ -44,7 +44,7 @@ Digitalisation and possible revenue losses worry practically all organisations. 
 <div style="background-color:#ddd;padding:0px;">
 <div syle="text-align: center; vertical-align: middle;margin: auto;">
 <img src="/assets/img/dxdoctor-package.png"/>
-<h3 style="padding:10px;text-align: center; vertical-align: middle;">CxO level coaching packages from experienced API and platform economy professional</h3>
+<h3 style="padding:10px;text-align: center; vertical-align: middle;">CxO level coaching packages from experienced API, Platform and Data economy professional</h3>
 
 </div>
 </div>
