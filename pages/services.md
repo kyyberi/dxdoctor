@@ -17,8 +17,6 @@ menu: true
 
 ### Avoid revenue losses
 
-
-
 <img src="/assets/img/growth.png" style="float:left;padding:20px;width:100px;"/> Digitalisation is all-around. **API Economy, Platform Economy and rising Data Economy are all intertwined.** C-level decision makers and other key personnel in companies **must understandard what is API and Platform Economy to avoid enormous revenue losses**. Digitalisation is built around APIs, platforms and data which enable data driven decision making and exponential growth. 
 
 Excellent Developer eXperience (DX) is the key in winning the competition since **38% of the developers in global level decide on purchases and 45% make recommendations.** Focus on the growing importance of developers is the core of Executive coaching. 
