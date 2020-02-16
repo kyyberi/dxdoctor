@@ -9,7 +9,7 @@ menu: true
 <img src="/assets/img/dx-services.png" alt="DX Doctor Services Logo" width="777">
 <center>
 
-<h2>Executive level API and platform economy coaching</h2>
+<h2>Executive level API, Platform and Data Economy coaching</h2>
 
 </center>
 
