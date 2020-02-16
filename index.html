@@ -40,16 +40,16 @@ layout: main
         </section>
     {% endif %}
 
-    <section class="row flex-grid" style="background-color: #585858;padding:0px;margin:25px;margin-top:0px;">
-        <div>
-            <a href="/services"><img src="/assets/img/dx-services-small.jpg"/></a>
-        </div>
-        <div>
+    <section class="row flex-grid" style="background-color: #585858;padding:0px;margin:25px;margin-top:0px;margin-left:0px;margin-right:0px;">
+        
+        <div style="float:left;">
+            <a href="/services"><img src="/assets/img/dx-services-small.jpg" style="float:left;padding-right:20px;"/></a>
             <h2 style="color:#fff;padding-left: 20px;">Get professional <a style="color:#ff4201;" href="/services/">CxO level coaching</a>  in API, Platform and Data Economy</h2>
             <div style="max-width: 800px;padding-left: 20px;">
                 <p style="color:#fff;font-size:1.2em;">3 ready-made packages - order with one step! </p>
             </div>
         </div>
+        
     </section>
 
     <!-- Posts season 2 -->
@@ -104,8 +104,20 @@ layout: main
             {% endfor %}
         </section>
 
+        <section class="row flex-grid" style="background-color: #585858;padding:0px;margin:25px;margin-top:0px;margin-left:0px;margin-right:0px;">
+        
+            <div style="float:left;">
+                <a href="https://100daysdx.com/"><img src="/assets/img/100daysimage.png" style="float:left;padding-right:20px;"/></a>
+                <h2 style="color:#fff;padding-left: 20px;">Recommended study material - <a style="color:#ff4201;" href="https://100daysdx.com/">100 Days DX</a> The biggest open resource on Developer eXperience</h2>
+                <div style="max-width: 800px;padding-left: 20px;">
+                    </div>
+            </div>
+            
+        </section>
+<!-- 
         <section class="row flex-grid" style="background-color: #585858;padding:0px;margin:25px;margin-top:0px;">
-            <div>
+            
+            <div style="margin-left:-30px;">
                 <a href="https://100daysdx.com/" target="top"><img src="/assets/img/100daysimage.png"/></a>
             </div>
             <div>
@@ -114,8 +126,9 @@ layout: main
                     <quote style="color:#fff;font-size:1.2em;">"This content looks great! I recommend checking it out if you want to improve your product's/service's #DeveloperExperience" </quote>
                 </div>
             </div>
+            
         </section>
-
+-->
        <!-- Posts season 1 -->
        <section class="row flex-grid">
         <h1 class="title" style="color:#fff;margin-left:15px;">Season 1 (2019)</h1>
@@ -168,17 +181,18 @@ layout: main
             {% endfor %}
         </section>
 
-        
+        <!-- 
         <section class="row flex-grid" style="background-color: #585858;padding:0px;margin:25px;margin-top:0px;">
+            <div style="margin-left:-30px;">
             <div>
                 <a href="https://100daysdx.com/literature/" target="top"><img src="/assets/img/curateed-list.png"/></a>
             </div>
             <div>
                 <h2 style="color:#fff;padding-left: 20px;">For further information - <a style="color:#ff4201;" href="https://100daysdx.com/literature/">Curated list</a> of API and Platform Economy books and articles</h2>
             </div>
-
+            </div>
         </section>
-
+    -->
 
     <!-- Pagination -->
     {% if site.paginate %}
