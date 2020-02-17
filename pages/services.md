@@ -13,11 +13,11 @@ menu: true
 
 </center>
 
-<img src="/assets/img/process.png" style="float:left;padding:20px;padding-left:0px;width:100px;"/> Besides leading the development of one platform (Platform of Trust), just writing and talking about API Economy, platform economy and Developer eXperience I do consulting and in-house training for company staff - mostly C-level. In the training focus is on ramping your organisation and objectives for growth. **Organisations use coaching to get started and to increase awareness of the opportunities, avoid potential losses and align organisation to goal-oriented processes.** Focus point of the coaching is defined case by case.     
+<img src="/assets/img/process.png" style="float:left;padding:20px;padding-left:0px;width:100px;"/> Besides leading the development of one platform (Platform of Trust), just writing and talking about API Economy, platform economy and Developer eXperience I do coaching for C-level staff. In the coaching focus is on ramping your organisation and objectives for growth. **Organisations use coaching to get started and to increase awareness of the opportunities, avoid potential losses and align organisation to goal-oriented processes.** Focus point of the coaching is defined case by case.     
 
 ### Avoid revenue losses
 
-<img src="/assets/img/growth.png" style="float:left;padding:20px;padding-left:0px;width:100px;"/> Digitalisation is all-around. **API Economy, Platform Economy and rising Data Economy are all intertwined.** C-level decision makers and other key personnel in companies **must understandard what is API and Platform Economy to avoid enormous revenue losses**. Digitalisation is built around APIs, platforms and data which enable data driven decision making and exponential growth. 
+<img src="/assets/img/growth.png" style="float:left;padding:20px;padding-left:0px;width:100px;"/> **API Economy, Platform Economy and rising Data Economy are all intertwined.** C-level decision makers and other key personnel in companies **must understandard what is API and Platform Economy to avoid enormous revenue losses**. Digitalisation is built around APIs, platforms and data which enable data driven decision making and exponential growth. 
 
 Excellent Developer eXperience (DX) is the key in winning the competition since **38% of the developers in global level decide on purchases and 45% make recommendations.** Focus on the growing importance of developers is the core of Executive coaching. 
 
