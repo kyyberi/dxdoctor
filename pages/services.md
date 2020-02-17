@@ -13,7 +13,7 @@ menu: true
 
 </center>
 
-<img src="/assets/img/process.png" style="float:left;padding:20px;padding-left:0px;width:100px;"/> Besides leading the development of one platform (Platform of Trust), just writing and talking about API Economy, platform economy and Developer eXperience I do coaching for C-level staff. In the coaching focus is on ramping your organisation and objectives for growth. **Organisations use coaching to get started and to increase awareness of the opportunities, avoid potential losses and align organisation to goal-oriented processes.** Focus point of the coaching is defined case by case.     
+<img src="/assets/img/process.png" style="float:left;padding:20px;padding-left:0px;width:100px;"/> Besides leading the development of one platform (<a href="https://platformoftrust.net" target="top">Platform of Trust</a>), just writing and talking about API Economy, platform economy and Developer eXperience I do coaching for C-level staff. In the coaching focus is on ramping your organisation and objectives for growth. **Organisations use coaching to get started and to increase awareness of the opportunities, avoid potential losses and align organisation to goal-oriented processes.** Focus point of the coaching is defined case by case.     
 
 ### Avoid revenue losses
 
