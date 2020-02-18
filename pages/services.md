@@ -19,7 +19,7 @@ menu: true
 
 <img src="/assets/img/growth.png" style="float:left;padding:20px;padding-left:0px;width:100px;"/> **API Economy, Platform Economy and rising Data Economy are all intertwined.** C-level decision makers and other key personnel in companies **must understandard what is API and Platform Economy to avoid enormous revenue losses**. Digitalisation is built around APIs, platforms and data which enable data driven decision making and exponential growth. 
 
-Excellent Developer eXperience (DX) is the key in winning the competition since **38% of the developers in global level decide on purchases and 45% make recommendations.** Focus on the growing importance of developers is the core of Executive coaching. 
+Excellent Developer eXperience (DX) is the key in winning the competition since **<a href="https://dxdoctor.net/developers-are-decision-makers-and-paying-customers/">38% of the developers in global level decide on purchases and 45% make recommendations.</a>** Focus on the growing importance of developers is the core of Executive coaching. 
 
 ### Flexible coaching
 
