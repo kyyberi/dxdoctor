@@ -27,7 +27,7 @@ Excellent Developer eXperience (DX) is the key in winning the competition since 
 
 <a href="#packages">Below</a> you'll find high packages, which all contain high quality professional online training video material. Why online? The key personnel are travelling and often have difficulties to find time for training and coaching. Besides meetings, and discussions are now online by default, why would coaching be different? **The combination of self-service video material and online coaching sessions offer needed flexibility in scheduling learning.** 
 
-If you need something custom, <a href="/contact/">contact</a> me and let's make it happen. All prices without VAT which will be added to the bill. 
+If you need something custom, <a href="/contact/">contact</a> me and let's make it happen. 
 
 ### Coaching fits for all
 
@@ -55,9 +55,10 @@ Digitalisation and possible revenue losses worry practically all organisations. 
 |  **5 Online video lectures** (preview coming soon) | **5 Online video lectures** (preview coming soon) | **5 Online video lectures** (preview coming soon) | 
 | **1 coaching session** online / on premises (1 hour / session) | **2 coaching sessions** online / on premises (1 hour / session) | **3 coaching sessions** online / on premises (1 hour / session) 
 | max 6 participants | max 10 participants | max 10 participants 
-| **3 000,00 €** + traveling expenses | **4 000,00 €**  + traveling expenses | **6 000,00 €**  + traveling expenses 
+| **5 000,00 €(+VAT)** + traveling expenses | **7 000,00 € (+VAT)**  + traveling expenses | **9 000,00 €(+VAT)**  + traveling expenses 
 | <center><a href="/services/cxo/standard/order" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">1 step purchase!</a></center> | <center><a href="/services/cxo/medium/order" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">1 step purchase!</a></center> | <center><a href="/services/cxo/large/order" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">1 step purchase!</a></center> | 
 
+All prices without VAT which will be added to the bill. 
 
 ## Something else? 
 
