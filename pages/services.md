@@ -21,7 +21,7 @@ menu: true
 
 Excellent Developer eXperience (DX) is the key in winning the competition since **<a href="https://dxdoctor.net/developers-are-decision-makers-and-paying-customers/">38% of the developers in global level decide on purchases and 45% make recommendations.</a>** Focus on the growing importance of developers is the core of Executive coaching. 
 
-### Flexible coaching
+### Flexible coaching boosted with 26 online episodes
 
 <img src="/assets/img/group.png" style="float:left;padding:20px;padding-left:0px;width:100px;"/> Coaching should not be mixed with lecturing. That is handled with online material. A coach focuses on working with a client to target development areas while supporting them in setting and managing a goal-oriented process.   
 
