@@ -55,7 +55,7 @@ Digitalisation and possible revenue losses worry practically all organisations. 
 |  **26 Online video episodes** (preview coming soon) | **26 Online video episodes** (preview coming soon) | **26 Online video episodes** (preview coming soon) | 
 | **1 coaching session** online / on premises (1 hour / session) | **2 coaching sessions** online / on premises (1 hour / session) | **3 coaching sessions** online / on premises (1 hour / session) 
 | max 6 participants | max 10 participants | max 10 participants 
-| **2 100,00 €(+VAT)** + traveling expenses | **4 100,00 € (+VAT)**  + traveling expenses | **6 100,00 €(+VAT)**  + traveling expenses 
+| **2 500,00 €(+VAT)** + traveling expenses | **4 000,00 € (+VAT)**  + traveling expenses | **6 500,00 €(+VAT)**  + traveling expenses 
 | <center><a href="/services/cxo/standard/order" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">1 step purchase!</a></center> | <center><a href="/services/cxo/medium/order" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">1 step purchase!</a></center> | <center><a href="/services/cxo/large/order" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">1 step purchase!</a></center> | 
 
 All prices without VAT which will be added to the bill. 
