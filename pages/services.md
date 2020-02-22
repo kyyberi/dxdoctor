@@ -25,7 +25,7 @@ Excellent Developer eXperience (DX) is the key in winning the competition since 
 
 <img src="/assets/img/group.png" style="float:left;padding:20px;padding-left:0px;width:100px;"/> Coaching should not be mixed with lecturing. That is handled with online material. A coach focuses on working with a client to target development areas while supporting them in setting and managing a goal-oriented process.   
 
-<a href="#packages">Below</a> you'll find high packages, which all contain high quality professional online training video material which is developed together with Osaango ltd. Why online? The key personnel are travelling and often have difficulties to find time for training and coaching. Besides meetings, and discussions are now online by default, why would coaching be different? **The combination of self-service video material and online coaching sessions offer needed flexibility in scheduling learning.** 
+<a href="#packages">Below</a> you'll find high packages, which all contain high quality professional online training video material which is developed together with Osaango ltd. <a target="top" href="https://www.osaango.academy/courses/profitable-growth-great-developer-experience">All packages contain 26 high quality episodes</a>. Why online? The key personnel are travelling and often have difficulties to find time for training and coaching. Besides meetings, and discussions are now online by default, why would coaching be different? **The combination of self-service video material and online coaching sessions offer needed flexibility in scheduling learning.** 
 
 If you need something custom, <a href="/contact/">contact</a> me and let's make it happen. 
 
