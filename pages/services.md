@@ -52,7 +52,7 @@ Digitalisation and possible revenue losses worry practically all organisations. 
 
 | <img src="/assets/img/standard-package-icon.png"/> STANDARD package |<img src="/assets/img/medium-package-icon.png"/> MEDIUM package | <img src="/assets/img/large-package-icon.png"/> LARGE package |
 |-------|--------|---------|
-|  **26 Online video episodes** (preview coming soon) | **26 Online video episodes** (preview coming soon) | **26 Online video episodes** (preview coming soon) | 
+|  **26 Online video episodes** (<a target="top" href="https://www.osaango.academy/courses/profitable-growth-great-developer-experience">preview & listing</a>) | **26 Online video episodes** (<a target="top" href="https://www.osaango.academy/courses/profitable-growth-great-developer-experience">preview & listing</a>) | **26 Online video episodes** (<a target="top" href="https://www.osaango.academy/courses/profitable-growth-great-developer-experience">preview & listing</a>) | 
 | **1 coaching session** online / on premises (1 hour / session) | **2 coaching sessions** online / on premises (1 hour / session) | **3 coaching sessions** online / on premises (1 hour / session) 
 | max 6 participants | max 10 participants | max 10 participants 
 | **2 500,00 €(+VAT)** + traveling expenses | **4 000,00 € (+VAT)**  + traveling expenses | **6 500,00 €(+VAT)**  + traveling expenses 
