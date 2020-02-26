@@ -81,7 +81,7 @@ You can get only the online course **Profitable Growth with Great Developer Expe
 
 | <a target="top" href="https://www.apieconomy.info/dx"><img src="/assets/img/dx-osaango.png" style="width:400px;"/></a> Profitable Growth with Great Developer Experience | <a href="https://shop.osaango.academy/?rfsn=3801866.e69f77"><img src="/assets/img/osaango.jpg" style="width:400px;"/></a> Osaango Academy 
 |-------|--------|
-|  **26 Online video episodes** (<a target="top" href="https://www.apieconomy.info/dx">preview & listing</a>) | **Plenty of other online courses** | 
+|  **26 Online video episodes** (<a target="top" href="https://www.apieconomy.info/dx">preview & listing</a>) | **Platform and API Economy focused** | 
 | **10% discount** with code "DXDOCTOR" | **Online courses** and other services 
 | **100,00 €(+VAT)** | **Free and commercial** 
 | <center><a href="https://www.apieconomy.info/dx" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Enroll now!!</a></center> | <center><a href="https://shop.osaango.academy/?rfsn=3801866.e69f77" target="top" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">To the shop!</a></center> | 
