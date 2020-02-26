@@ -21,14 +21,6 @@ menu: true
 
 Excellent Developer eXperience (DX) is the key in winning the competition since **<a href="https://dxdoctor.net/developers-are-decision-makers-and-paying-customers/">38% of the developers in global level decide on purchases and 45% make recommendations.</a>** Focus on the growing importance of developers is the core of Executive coaching. 
 
-### Flexible coaching boosted with 26 online episodes
-
-<img src="/assets/img/group.png" style="float:left;padding:20px;padding-left:0px;width:100px;"/> Coaching should not be mixed with lecturing. That is handled with online material. A coach focuses on working with a client to target development areas while supporting them in setting and managing a goal-oriented process.   
-
-<a href="#packages">Below</a> you'll find high packages, which all contain high quality professional online training video material which is developed together with Osaango ltd. <a target="top" href="https://www.osaango.academy/courses/profitable-growth-great-developer-experience">All packages contain 26 high quality episodes</a>. Why online? The key personnel are travelling and often have difficulties to find time for training and coaching. Besides meetings, and discussions are now online by default, why would coaching be different? **The combination of self-service video material and online coaching sessions offer needed flexibility in scheduling learning.** 
-
-If you need something custom, <a href="/contact/">contact</a> me and let's make it happen. 
-
 ### Coaching fits for all
 
 Digitalisation and possible revenue losses worry practically all organisations. Here's a few organisations I've coached and helped to get started or grow. 
@@ -38,15 +30,26 @@ Digitalisation and possible revenue losses worry practically all organisations. 
 - Metso Automation (paper mills)
 - Checkout Finland (banking and payments business)
 
-### Select package and order with 1 step! 
+## Flexible coaching boosted with 26 online episodes - or buy just online courses!
 
-<a name="packages"/>
+<img src="/assets/img/group.png" style="float:left;padding:20px;padding-left:0px;width:100px;"/> Coaching should not be mixed with lecturing. That is handled with online material. A coach focuses on working with a client to target development areas while supporting them in setting and managing a goal-oriented process. Thus we offer two options: 
+
+1. <a href="#coaching-intro">CxO level coaching with online courses (full value)</a>
+2. <a href="#courses-intro">Online courses (26 episodes) only</a>
+
+<a name="coaching-intro">
+
+## Buy DX Doctor CxO coaching bundled with online courses 
+
+<a href="#coaching">Below</a> you'll find all packages bundled with high quality professional online training course **Profitable Growth with Great Developer Experience** which is developed together with Osaango ltd. <a target="top" href="https://www.osaango.academy/courses/profitable-growth-great-developer-experience">All packages contain 26 high quality episodes</a>. 
+
+<a name="coaching"/>
 <div style="background-color:#ddd;padding:0px;">
-<div syle="text-align: center; vertical-align: middle;margin: auto;">
-<img src="/assets/img/dxdoctor-package.png"/>
-<h3 style="padding:10px;text-align: center; vertical-align: middle;">CxO level coaching packages from experienced API, Platform and Data economy professional</h3>
+    <div syle="text-align: center; vertical-align: middle;margin: auto;">
+        <img src="/assets/img/dxdoctor-package.png"/>
+        <h3 style="padding:10px;text-align: center; vertical-align: middle;">CxO level coaching packages from experienced API, Platform and Data economy professional. Course material in cooperation with Osaango Academy</h3>
 
-</div>
+    </div>
 </div>
 
 
@@ -57,6 +60,31 @@ Digitalisation and possible revenue losses worry practically all organisations. 
 | max 6 participants | max 10 participants | max 10 participants 
 | **2 500,00 €(+VAT)** + traveling expenses | **4 000,00 € (+VAT)**  + traveling expenses | **6 500,00 €(+VAT)**  + traveling expenses 
 | <center><a href="/services/cxo/standard/order" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">1 step purchase!</a></center> | <center><a href="/services/cxo/medium/order" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">1 step purchase!</a></center> | <center><a href="/services/cxo/large/order" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">1 step purchase!</a></center> | 
+
+All prices without VAT which will be added to the bill. 
+
+
+## Buy only online courses 
+
+You can get only the online course **Profitable Growth with Great Developer Experience (26 episodes)** if that fits your situation and needs better. Order via DX Doctor to get 10% discount! 
+
+<a name="courses-intro">
+
+<a name="courses"/>
+<div style="background-color:#ddd;padding:0px;">
+    <div syle="text-align: center; vertical-align: middle;margin: auto;">
+        <img src="/assets/img/dxdoctor-package.png"/>
+        <h3 style="padding:10px;text-align: center; vertical-align: middle;">Online courses offering in cooperation with Osaango Academy</h3>
+
+    </div>
+</div>
+
+| <img src="/assets/img/dx-osaango.png" style="width:400px;"/> Profitable Growth with Great Developer Experience |<img src="/assets/img/osaango.jpg" style="width:400px;"/> Osaango Academy 
+|-------|--------|
+|  **26 Online video episodes** (<a target="top" href="https://www.apieconomy.info/dx">preview & listing</a>) | **Plenty of other online courses** | 
+| **10% discount** with code "DXDOCTOR" | **Online courses** and other services 
+| **100,00 €(+VAT)** | **Free and commercial** 
+| <center><a href="https://www.apieconomy.info/dx" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">Enroll now!!</a></center> | <center><a href="https://shop.osaango.academy/?rfsn=3801866.e69f77" target="top" style="background-color:#ff4201; padding:10px; color:#fff;border-radius: 5px;">To the shop!</a></center> | 
 
 All prices without VAT which will be added to the bill. 
 
