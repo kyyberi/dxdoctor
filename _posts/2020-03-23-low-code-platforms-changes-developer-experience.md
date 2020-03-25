@@ -1,7 +1,7 @@
 ---
 date: 2020-02-23 12:48:05
 layout: post
-title: Emerging drag-and-drop Developer profile and developer experience
+title: Emerging low-code drag-and-drop Developer profile and developer experience
 subtitle: >- 
   Low-code application development will be responsible for more than 
   65 percent of application development activity 2024
