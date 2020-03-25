@@ -21,4 +21,6 @@ paginate: true
 
 <b>Continue discussion after watching the episode in Twitter, follow hashtag <a href="https://twitter.com/search?q=%23dxdoctor&src=typed_query">#dxdoctor</a></b> 
 
+Slides available via Speakerdeck: <a href="https://speakerdeck.com/kyyberi/20-and-developer-experience-why-should-i-care"> Pareto principle (80/20) and Developer eXperience – why should I care? </a>
+
 <iframe width="560" height="485" src="https://www.youtube.com/embed/y-NMBRFdYwM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
